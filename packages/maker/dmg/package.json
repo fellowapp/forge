@@ -2,7 +2,7 @@
   "name": "@fellow/maker-dmg",
   "version": "7.4.0",
   "description": "DMG maker for Electron Forge",
-  "repository": "https://github.com/electron/forge",
+  "repository": "https://github.com/fellowapp/forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/MakerDMG.js",
